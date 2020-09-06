@@ -9,5 +9,3 @@ script.Parent.ClickDetector.MouseClick:Connect(function()
 		script.Parent.CanCollide = false
 	end
 end)
-
-
